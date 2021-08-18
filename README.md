@@ -73,3 +73,6 @@ Platform specific notes
   using [emscripten](https://emscripten.org/) and CLAPACK.
 - See [this post](https://gitlab.inria.fr/kaldi.web/kaldi-wasm/-/wikis/build_details.md)
   for a step-by-step description of the build process.
+
+### Models
+- Download [here](https://drive.google.com/drive/folders/1iXwWu8rG7MVVuOCo-G2c1_d-j83smmsZ?usp=sharing)
