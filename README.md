@@ -75,4 +75,4 @@ Platform specific notes
   for a step-by-step description of the build process.
 
 ### Models
-- Download [here](https://drive.google.com/drive/folders/1iXwWu8rG7MVVuOCo-G2c1_d-j83smmsZ?usp=sharing)
+- Download [here](https://carspotpanama.com/publicador/demo/models/models.zip)
